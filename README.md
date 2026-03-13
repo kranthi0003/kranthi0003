@@ -1,5 +1,5 @@
 <!-- Calm Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Kranthi%20Kiran&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Simplicity%20is%20prerequisite%20for%20reliability&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 
 # Hi, I'm Kranthi 👋
 
