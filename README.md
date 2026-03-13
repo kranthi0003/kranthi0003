@@ -29,30 +29,40 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/grafana/F46800" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
 &nbsp;&nbsp;
+
 <img src="https://cdn.simpleicons.org/couchbase/EA2328" width="45"/>
 
 </p>
-
 ---
 
 ## ⚙️ What I Enjoy Building
