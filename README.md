@@ -12,11 +12,11 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 ## 💼 Experience
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55"/>
-&nbsp;&nbsp;➡️&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="55"/>
-&nbsp;&nbsp;➡️&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50"/>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/couchbase/EA2328" height="50"/>
+&nbsp;&nbsp;→&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="50"/>
 </p>
 
 Working around **cloud infrastructure, distributed systems, and large-scale databases**.
