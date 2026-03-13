@@ -23,46 +23,13 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 
 ## 🛠 Tools & Technologies
 
-<p align="left">
+## 🛠 Tools & Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-&nbsp;&nbsp;
+<p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-&nbsp;&nbsp;
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="45"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,aws,docker,kubernetes,linux,mysql,git,postman&perline=10" />
 
 </p>
-
 ## ⚙️ What I Enjoy Building
 
 - Automation tools that reduce operational overhead  
