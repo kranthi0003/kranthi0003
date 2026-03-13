@@ -38,7 +38,8 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 &nbsp;&nbsp;
 
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="55"/>
 &nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
