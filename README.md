@@ -71,19 +71,6 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 - Cloud-native workflows and serverless applications  
 - Reliable distributed systems
 
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=kranthi0003&show_icons=true&hide_border=true"/>
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kranthi0003&hide_border=true"/>
-
----
 
 ## 🌐 Elsewhere
 
