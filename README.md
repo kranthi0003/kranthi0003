@@ -10,7 +10,7 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 ## 💼 Experience
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 &nbsp;&nbsp;
