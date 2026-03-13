@@ -1,5 +1,5 @@
 <!-- Calm Header Banner -->
-<img src="./banner-quote.png" alt="Quote Banner" width="100%" />
+<img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
 # Hi, I'm Kranthi 👋
 
