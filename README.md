@@ -19,16 +19,23 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50"/>
 </p>
 
-Working around **cloud infrastructure, distributed systems, and large-scale databases**.
+Building and operating **cloud infrastructure, distributed systems, and large-scale databases**.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠 Tools & Technologies
 
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="45"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 &nbsp;&nbsp;
@@ -38,17 +45,22 @@ Working around **cloud infrastructure, distributed systems, and large-scale data
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/grafana/F46800" width="45"/>
 &nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" width="45"/>
+&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/couchbase/EA2328" width="45"/>
+
 </p>
 
 ---
 
 ## ⚙️ What I Enjoy Building
 
-- Tools that remove repetitive operational work  
-- Dashboards that make systems easier to understand  
-- Small web experiments combining engineering and creativity  
-- Systems that are **simple, observable, and reliable**
+- Automation tools that reduce operational overhead  
+- Observability dashboards for system visibility  
+- Cloud-native workflows and serverless applications  
+- Reliable distributed systems
 
 ---
 
@@ -66,7 +78,8 @@ Working around **cloud infrastructure, distributed systems, and large-scale data
 
 ## 🌐 Elsewhere
 
-Website → https://kranthikiran.com
+Website → https://kranthikiran.com  
+LinkedIn → https://linkedin.com/in/akkiran003/
 
 ---
 
