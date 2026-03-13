@@ -1,33 +1,11 @@
 <!-- Calm Header Banner -->
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
-<div style="background:#161b22;border-radius:10px;padding:18px;font-family:monospace;color:#e6edf3">
+<p align="center">
 
-<div style="margin-bottom:12px;">
-<span style="color:#ff5f56;">⬤</span>
-<span style="color:#ffbd2e;">⬤</span>
-<span style="color:#27c93f;">⬤</span>
-<span style="margin-left:12px;color:#8b949e;">kranthi@github</span>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=kranthi@github:~$+whoami;Kranthi+Kiran;Cloud+%26+Systems+Engineer;Focused+on+Distributed+Systems+%26+Automation;Making+systems+make+sense." />
 
-<pre>
-
-$ whoami
-Kranthi Kiran
-
-$ role
-Cloud / Systems Engineer
-
-$ interests
-Distributed Systems
-Cloud Infrastructure
-Observability
-
-$ echo "making systems make sense"
-
-</pre>
-
-</div>
+</p>
 
 Engineer interested in **systems, reliability, and thoughtful automation**.
 
