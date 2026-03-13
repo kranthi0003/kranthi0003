@@ -22,7 +22,7 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 
 ## 🛠 Tools & Technologies
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,aws,docker,kubernetes,linux,mysql,git,postman,grafana&perline=11" />
 
