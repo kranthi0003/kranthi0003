@@ -31,6 +31,7 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 
 </p>
+
 ## ⚙️ What I Enjoy Building
 
 - Automation tools that reduce operational overhead  
