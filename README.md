@@ -20,11 +20,6 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 Building and operating **cloud infrastructure, distributed systems, and large-scale databases**.
 
-
-## 🛠 Tools & Technologies
-
-## 🛠 Tools & Technologies
-
 ## 🛠 Tools & Technologies
 
 <p align="center">
