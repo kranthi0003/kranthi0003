@@ -27,8 +27,8 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 ## 🛠 Tools & Technologies
 
 <p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,bash,aws,gcp,docker,kubernetes,linux,mysql,mongodb,git,postman,grafana,prometheus,terraform,yaml,json&perline=9" />
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,aws,docker,kubernetes,linux,mysql,git,postman,grafana&perline=11" />
 
 </p>
 ## ⚙️ What I Enjoy Building
