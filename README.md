@@ -12,11 +12,11 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 ## 💼 Experience
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="55"/>
 &nbsp;&nbsp;➡️&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/couchbase.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="55"/>
 &nbsp;&nbsp;➡️&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="50"/>
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="55"/>
 </p>
 
 Working around **cloud infrastructure, distributed systems, and large-scale databases**.
@@ -30,10 +30,10 @@ Working around **cloud infrastructure, distributed systems, and large-scale data
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/grafana.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/couchbase.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="40"/>
+<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="40"/>
 </p>
 
 ---
