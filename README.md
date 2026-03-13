@@ -27,7 +27,7 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 ## 🛠 Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,go,aws,azure,docker,kubernetes,linux,mysql,mongodb,github,grafana,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,go,aws,azure,docker,kubernetes,linux,redis,mongodb,github,grafana,vscode" />
 
 
 </p>
