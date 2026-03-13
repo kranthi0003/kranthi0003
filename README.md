@@ -13,9 +13,9 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50"/>
-&nbsp;&nbsp;→&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/couchbase/EA2328" height="50"/>
-&nbsp;&nbsp;→&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/github/FFFFFF" height="50"/>
 </p>
 
@@ -26,14 +26,19 @@ Working around **cloud infrastructure, distributed systems, and large-scale data
 ## 🧰 Tools & Technologies
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.simpleicons.org/grafana/F46800" width="40"/>
-<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/F46800" width="45"/>
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/couchbase/EA2328" width="45"/>
 </p>
 
 ---
