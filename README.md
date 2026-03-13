@@ -21,7 +21,6 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 Building and operating **cloud infrastructure, distributed systems, and large-scale databases**.
 
----
 
 ## 🛠 Tools & Technologies
 
@@ -63,7 +62,6 @@ Building and operating **cloud infrastructure, distributed systems, and large-sc
 <img src="https://cdn.simpleicons.org/couchbase/EA2328" width="45"/>
 
 </p>
----
 
 ## ⚙️ What I Enjoy Building
 
