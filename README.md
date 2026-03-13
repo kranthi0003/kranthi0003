@@ -11,13 +11,14 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 ## 🧰 Tools & Technologies
 
-<p>
-<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Programming-blue?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Databases-lightgrey?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-Observability-orange?style=flat&logo=grafana&logoColor=white"/>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -46,6 +47,10 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 ## 🌐 Elsewhere
 
 Website → https://kranthikiran.com
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=kranthi0003&color=blue)
 
 ---
 
