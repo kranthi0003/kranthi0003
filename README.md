@@ -1,7 +1,7 @@
 <!-- Calm Header Banner -->
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
-# ʜɪ, ɪ'ᴍ ᴋʀᴀɴᴛʜɪ 👋
+## kranthi@github:~$ hello there 👋
 
 Engineer interested in **systems, reliability, and thoughtful automation**.
 
