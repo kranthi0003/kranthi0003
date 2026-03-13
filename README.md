@@ -1,5 +1,7 @@
 <!-- Calm Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sow%20a%20thought,%20reap%20an%20action.%20Sow%20an%20action,%20reap%20a%20habit.&fontAlign=50&fontAlignY=40&fontSize=24&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
+<p align="center">
+<img src="banner-quote.jpeg" width="100%">
+</p>
 
 # Hi, I'm Kranthi 👋
 
