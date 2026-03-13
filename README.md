@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=650&lines=kranthi@github:~$+whoami;Kranthi+Kiran;Cloud+%26+Systems+Engineer;Focused+on+Distributed+Systems+%26+Automation;Making+systems+make+sense." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+cat+skills.json;Python+Java+AWS+Docker+Kubernetes;$+echo+'making+systems+make+sense'" />
 
 </p>
 
