@@ -11,11 +11,15 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 ## 💼 Experience
 
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/couchbase/EA2328" height="50"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="50"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/>
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </p>
 
 Building and operating **cloud infrastructure, distributed systems, and large-scale databases**.
