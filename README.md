@@ -7,8 +7,6 @@
 
 </p>
 
-Engineer interested in **systems, reliability, and thoughtful automation**.
-
 I enjoy understanding how complex systems behave, debugging the unexpected, and building tools that make operations simpler and more reliable.
 
 
