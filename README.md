@@ -1,7 +1,7 @@
 <!-- Calm Header Banner -->
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
-# Hi, I'm Kranthi 👋
+# ʜɪ, ɪ'ᴍ ᴋʀᴀɴᴛʜɪ 👋
 
 Engineer interested in **systems, reliability, and thoughtful automation**.
 
