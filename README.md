@@ -3,7 +3,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+uptime;4+years+of+cloud+systems+engineering;$+ls+interests;distributed+systems+observability+automation;$+echo+'making+systems+make+sense'" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+uptime;3+years+of+cloud+systems+engineering;$+ls+interests;distributed+systems+observability+automation;$+echo+'making+systems+make+sense'" />
 
 </p>
 
