@@ -1,7 +1,31 @@
 <!-- Calm Header Banner -->
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
-## kranthi@github:~$ hello there 👋
+<div style="background:#0d1117;border-radius:8px;padding:16px;font-family:monospace;color:#c9d1d9">
+
+<div style="margin-bottom:10px;">
+<span style="color:#ff5f56;">●</span>
+<span style="color:#ffbd2e;">●</span>
+<span style="color:#27c93f;">●</span>
+<span style="margin-left:10px;color:#8b949e;">terminal</span>
+</div>
+
+<pre>
+
+kranthi@github:~$ whoami
+Kranthi Kiran
+
+kranthi@github:~$ role
+Cloud & Systems Engineer
+
+kranthi@github:~$ focus
+Distributed Systems • Observability • Automation
+
+kranthi@github:~$ stack
+Python • Java • AWS • Docker • Kubernetes • Linux
+
+</pre>
+</div>
 
 Engineer interested in **systems, reliability, and thoughtful automation**.
 
