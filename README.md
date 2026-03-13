@@ -1,30 +1,32 @@
 <!-- Calm Header Banner -->
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
-<div style="background:#0d1117;border-radius:8px;padding:16px;font-family:monospace;color:#c9d1d9">
+<div style="background:#161b22;border-radius:10px;padding:18px;font-family:monospace;color:#e6edf3">
 
-<div style="margin-bottom:10px;">
-<span style="color:#ff5f56;">●</span>
-<span style="color:#ffbd2e;">●</span>
-<span style="color:#27c93f;">●</span>
-<span style="margin-left:10px;color:#8b949e;">terminal</span>
+<div style="margin-bottom:12px;">
+<span style="color:#ff5f56;">⬤</span>
+<span style="color:#ffbd2e;">⬤</span>
+<span style="color:#27c93f;">⬤</span>
+<span style="margin-left:12px;color:#8b949e;">kranthi@github</span>
 </div>
 
 <pre>
 
-kranthi@github:~$ whoami
+$ whoami
 Kranthi Kiran
 
-kranthi@github:~$ role
-Cloud & Systems Engineer
+$ role
+Cloud / Systems Engineer
 
-kranthi@github:~$ focus
-Distributed Systems • Observability • Automation
+$ interests
+Distributed Systems
+Cloud Infrastructure
+Observability
 
-kranthi@github:~$ stack
-Python • Java • AWS • Docker • Kubernetes • Linux
+$ echo "making systems make sense"
 
 </pre>
+
 </div>
 
 Engineer interested in **systems, reliability, and thoughtful automation**.
