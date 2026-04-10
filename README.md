@@ -2,7 +2,7 @@
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+cat+role.txt;Systems+Engineer+%40+GitHub;$+uptime;4%2B+years+of+cloud+%26+distributed+systems;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+cat+role.txt;Systems+Engineer+%40+GitHub;$+uptime;5%2B+years+of+cloud+%26+distributed+systems;" />
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@ I build tools that make complex systems behave, debug the unexpected, and turn o
       <sub>2026 → Present</sub>
     </td>
     <td align="center" width="180">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-      <sub><b>Cloud Engineer</b></sub><br/>
-      <sub>2023 → 2026</sub>
-    </td>
-    <td align="center" width="180">
       <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /><br/>
       <sub><b>Software Engineer</b></sub><br/>
-      <sub>2022 → 2023</sub>
+      <sub>2025 → 2026</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=amazon&logoColor=white" /><br/>
+      <sub><b>Cloud Engineer</b></sub><br/>
+      <sub>2021 → 2025</sub>
     </td>
   </tr>
 </table>
