@@ -42,7 +42,7 @@ I enjoy understanding how complex systems behave, debugging the unexpected, and 
 
 ## 🌐 Elsewhere
 
-Website → https://kranthikiran.com  
+X → https://x.com/kranthikiran03
 LinkedIn → https://linkedin.com/in/akkiran003/
 
 ---
