@@ -63,19 +63,20 @@ I build tools that make complex systems behave, debug the unexpected, and turn o
   </tr>
   <tr>
     <td width="50%">
+      <h3><a href="https://github.com/kranthi0003/github-foundations-quest">🎮 GitHub Foundations Quest</a></h3>
+      <p>Gamified GH-900 cert prep — 49 quests across 7 domains with XP tracking, boss fight quizzes, and a GitHub Actions bot that auto-updates your progress as you close issues.</p>
+      <p>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%">
       <h3><a href="https://github.com/kranthi0003/Health-Risk-Prediction">🏥 Health Risk Prediction</a></h3>
       <p>ML pipeline for predicting health risks using classification models and feature engineering on clinical datasets.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/kranthi0003/data_visualization">📊 Data Visualization</a></h3>
-      <p>Interactive data visualization dashboards and analysis scripts for exploratory data insights.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
       </p>
     </td>
   </tr>
