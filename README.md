@@ -2,7 +2,7 @@
 <img src="./banner-quote.jpeg" alt="Quote Banner" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+cat+role.txt;Systems+Engineer+%40+GitHub;$+uptime;5%2B+years+of+cloud+%26+distributed+systems;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&lines=$+whoami;Kranthi+Kiran;$+cat+role.txt;TSE-3+%40+GitHub;$+uptime;5%2B+years+of+cloud+%26+distributed+systems;" />
 </p>
 
 <p align="center">
