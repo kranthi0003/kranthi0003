@@ -21,12 +21,12 @@ I build tools that make complex systems behave, debug the unexpected, and turn o
   <tr>
     <td align="center" width="180">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
-      <sub><b>Systems Engineer</b></sub><br/>
+      <sub><b>TSE-3</b></sub><br/>
       <sub>2026 → Present</sub>
     </td>
     <td align="center" width="180">
       <img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white" /><br/>
-      <sub><b>Software Engineer</b></sub><br/>
+      <sub><b>TSE-2</b></sub><br/>
       <sub>2025 → 2026</sub>
     </td>
     <td align="center" width="180">
