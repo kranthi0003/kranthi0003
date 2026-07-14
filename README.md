@@ -1,6 +1,6 @@
 # Kranthi Kiran
 
-TSE-3 at GitHub. I build tools that make complex systems behave — automation,
+SE-3 at GitHub. I build tools that make complex systems behave — automation,
 observability, and distributed systems that stay reliable under pressure.
 
 [kranthikiran.com](https://kranthikiran.com) · [LinkedIn](https://linkedin.com/in/akkiran003) · [X](https://x.com/kranthikiran03)
