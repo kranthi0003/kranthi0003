@@ -6,7 +6,7 @@ observability, and distributed systems that stay reliable under pressure.
 [kranthikiran.com](https://kranthikiran.com) · [LinkedIn](https://linkedin.com/in/akkiran003) · [X](https://x.com/kranthikiran03)
 
 ### Experience
-- **GitHub** — TSE-3 · 2026–present
+- **GitHub** — SE-3 · 2026–present
 - **Couchbase** — TSE-2 · 2025–2026
 - **Amazon** — Cloud Engineer · 2021–2025
 
